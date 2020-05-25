@@ -1,2 +1,4 @@
+/Users/maureen/Downloads/devops-demo-app/src/main/java/org/example/devopsdemoapp/model/User.java
 /Users/maureen/Downloads/devops-demo-app/src/main/java/org/example/devopsdemoapp/MainApplication.java
-/Users/maureen/Downloads/devops-demo-app/src/main/java/org/example/devopsdemoapp/HomeController.java
+/Users/maureen/Downloads/devops-demo-app/src/main/java/org/example/devopsdemoapp/controller/UserController.java
+/Users/maureen/Downloads/devops-demo-app/src/main/java/org/example/devopsdemoapp/dao/UserRepository.java

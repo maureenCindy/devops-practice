@@ -1,2 +1,4 @@
-org/example/devopsdemoapp/HomeController.class
+org/example/devopsdemoapp/controller/UserController.class
 org/example/devopsdemoapp/MainApplication.class
+org/example/devopsdemoapp/model/User.class
+org/example/devopsdemoapp/dao/UserRepository.class
